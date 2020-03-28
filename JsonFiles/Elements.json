@@ -1,0 +1,29 @@
+{
+  "Login":
+    {
+      "username_textbox_id": "com.daxko.mobilemember.container:id/et_Username",
+      "password_textbox_id": "com.daxko.mobilemember.container:id/et_password",
+      "login_button_id": "com.daxko.mobilemember.container:id/btn_login",
+      "myaccount_button_id": "com.daxko.mobilemember.container:id/btn_my_accn",
+      "hamburger_id": "android:id/up",
+      "logout_xpath": "//android.widget.TextView[contains(@text,'Log out')]",
+      "donothavelogin_id": "com.daxko.mobilemember.container:id/tv_get_username_password",
+      "membernumber_textbox_id": "com.daxko.mobilemember.container:id/et_mem_num",
+      "submit_button_id": "com.daxko.mobilemember.container:id/btn_submit",
+      "ok_button_xpath": "//android.widget.Button[contains(@text,'OK')]",
+      "cancel_button_id": "com.daxko.mobilemember.container:id/btn_cancel",
+      "skip_button_id": "com.daxko.mobilemember.container:id/btn_skip",
+      "location_xpath": "//android.widget.TextView[contains(@text,'CSI QA 2')]",
+      "ForgotPassword":
+      {
+        "forgot_password_link_id": "com.daxko.mobilemember.container:id/tv_forgetpassword",
+        "forgot_password_alerticon_id": "com.daxko.mobilemember.container:id/iv_info",
+        "forgot_password_alert_xpath": "//android.widget.Button[contains(@text,'OK')]",
+        "forgot_password_cancel_button_id": "com.daxko.mobilemember.container:id/btn_pwd_cancel",
+        "forgot_password_email_textbox_id": "com.daxko.mobilemember.container:id/et_forgot_email",
+        "forgot_password_submit_button_id": "com.daxko.mobilemember.container:id/btn_pwd_submit",
+        "forgot_password_ok_button_xpath": "//android.widget.Button[contains(@text,'OK')]"
+      }
+
+    }
+}
